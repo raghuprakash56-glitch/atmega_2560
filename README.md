@@ -150,3 +150,5 @@ smart-parking-assist/
 ## Credits
 
 Developed as a team project for the Smart Parking Assist hackathon. Update this section with team member names, roles, and acknowledgements before publishing.
+
+# atmega_2560
