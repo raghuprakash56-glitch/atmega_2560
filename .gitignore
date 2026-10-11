@@ -1,0 +1,24 @@
+# Build outputs
+*.o
+*.elf
+*.hex
+*.eep
+*.map
+build/
+dist/
+
+# IDE / editor
+.vscode/
+.idea/
+*.swp
+*~
+
+# OS noise
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Local-only files / secrets
+.env
+.env.*
+!.env.example
